@@ -1,9 +1,5 @@
-
-[![Master Head](https://www.vecteezy.com/video/11868785-animated-isolated-coding-specialist-window-with-typing-web-developer-looped-flat-2d-character-4k-video-footage-with-alpha-channel-programming-colorful-animation-for-mobile-website-social-media)
 <h1 align="center">Hi 👋, I'm UmerCheena</h1>
 <h3 align="center">A passionate UI/UX designer from Pakistan</h3>
-<img align="right" alt="Designing" width="400" src="https://iconscout.com/lottie-animation/web-designer-5714905">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umercheena&label=Profile%20views&color=0e75b6&style=flat" alt="umercheena" /> </p>
 
@@ -25,10 +21,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umercheena&show_icons=true&locale=en&layout=compact" alt="umercheena" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umercheena&show_icons=true&locale=en" alt="umercheena" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umercheena&" alt="umercheena" /></p>
